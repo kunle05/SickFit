@@ -9,4 +9,7 @@ yarn dev
 ```
 
 Then start the server in the backend directory
+
+```bash
 node src/server.js
+```
